@@ -1,0 +1,17 @@
+C:\Users\yanne\source\repos\ComponentesVisuais01\bin\Debug\net6.0-windows\ComponentesVisuais01.exe
+C:\Users\yanne\source\repos\ComponentesVisuais01\bin\Debug\net6.0-windows\ComponentesVisuais01.deps.json
+C:\Users\yanne\source\repos\ComponentesVisuais01\bin\Debug\net6.0-windows\ComponentesVisuais01.runtimeconfig.json
+C:\Users\yanne\source\repos\ComponentesVisuais01\bin\Debug\net6.0-windows\ComponentesVisuais01.dll
+C:\Users\yanne\source\repos\ComponentesVisuais01\bin\Debug\net6.0-windows\ComponentesVisuais01.pdb
+C:\Users\yanne\source\repos\ComponentesVisuais01\obj\Debug\net6.0-windows\ComponentesVisuais01.csproj.AssemblyReference.cache
+C:\Users\yanne\source\repos\ComponentesVisuais01\obj\Debug\net6.0-windows\ComponentesVisuais01.FormMain.resources
+C:\Users\yanne\source\repos\ComponentesVisuais01\obj\Debug\net6.0-windows\ComponentesVisuais01.csproj.GenerateResource.cache
+C:\Users\yanne\source\repos\ComponentesVisuais01\obj\Debug\net6.0-windows\ComponentesVisuais01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanne\source\repos\ComponentesVisuais01\obj\Debug\net6.0-windows\ComponentesVisuais01.AssemblyInfoInputs.cache
+C:\Users\yanne\source\repos\ComponentesVisuais01\obj\Debug\net6.0-windows\ComponentesVisuais01.AssemblyInfo.cs
+C:\Users\yanne\source\repos\ComponentesVisuais01\obj\Debug\net6.0-windows\ComponentesVisuais01.csproj.CoreCompileInputs.cache
+C:\Users\yanne\source\repos\ComponentesVisuais01\obj\Debug\net6.0-windows\ComponentesVisuais01.dll
+C:\Users\yanne\source\repos\ComponentesVisuais01\obj\Debug\net6.0-windows\refint\ComponentesVisuais01.dll
+C:\Users\yanne\source\repos\ComponentesVisuais01\obj\Debug\net6.0-windows\ComponentesVisuais01.pdb
+C:\Users\yanne\source\repos\ComponentesVisuais01\obj\Debug\net6.0-windows\ComponentesVisuais01.genruntimeconfig.cache
+C:\Users\yanne\source\repos\ComponentesVisuais01\obj\Debug\net6.0-windows\ref\ComponentesVisuais01.dll
